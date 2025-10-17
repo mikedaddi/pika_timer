@@ -2,8 +2,8 @@
 
 A high-utility, responsive intermittent timer for somatic operations like exercise, meditation, and focused work. This tool is designed for commanders who require precision, privacy, and performance.
 
-![Pika Timer Screenshot](https://user-images.githubusercontent.com/your-username/your-repo/your-screenshot-filename.png)  
-*(**Commander's Note:** You will need to take a screenshot of the app, upload it to your GitHub repository, and replace the URL above with the actual URL to the image.)*
+[![Pika Timer Screenshot](https://user-images.githubusercontent.com/your-username/your-repo/your-screenshot-filename.png)  
+*(**Commander's Note:** You will need to take a screenshot of the app, upload it to your GitHub repository, and replace the URL above with the actual URL to the image.)*](https://github.com/mikedaddi/pika_timer/blob/main/luckypikas-collectable-art-pika-yoga-infinity-timer-app-meditation-workout-exercise-boxing-round-somatic-MEMBERS-ONLY-BETA-002.png)
 
 ---
 
